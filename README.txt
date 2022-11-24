@@ -1,0 +1,1 @@
+This document explains how to use the randomized message generator
